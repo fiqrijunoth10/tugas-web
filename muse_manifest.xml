@@ -1,0 +1,87 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1494572360180">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4072519847" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="placeholder.jpg" crc="4051531941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="download.jpg" crc="3990606977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="peran-teknologi-informasi-dalam-bisnis.jpg" crc="29537749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teknologi-informasi-dalam-genggaman.jpg" crc="3899261336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images (1).jpg" crc="3923016289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images (2).jpg" crc="4162252708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download (1).jpg" crc="4057199670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="peran-teknologi-informasi-dalam-bisnis-u1062-fr.jpg" crc="4256499090" ref="index"/>
+    <file name="kejahatan teknologi informasi 2-u1063-fr.jpg" crc="3953156371" ref="index"/>
+    <file name="images.jpg" crc="4275923105" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yry1ivi.jpg" crc="4283284617" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1634-6.png" crc="3950946468" ref="index"/>
+    <file name="10418166_323481937803684_7402618000269240088_n.jpg" crc="4050045454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1709-4.png" crc="3966678189" ref="index"/>
+    <file name="u1640-4.png" crc="4292874222" ref="index"/>
+    <file name="17757524_606279879563082_5541167877297081988_n.jpg" crc="3790049227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1643-6.png" crc="265322146" ref="index"/>
+    <file name="17796747_783586525149128_7539894739390684497_n.jpg" crc="520044576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1646-6.png" crc="10542138" ref="index"/>
+    <file name="13087649_1133925013315715_2948071787318873261_n.jpg" crc="435013922" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder-u909-fr.jpg" crc="143987005" ref="index"/>
+    <file name="images (1)-u909-a-fr.jpg" crc="3852766160" ref="index"/>
+    <file name="peran-teknologi-informasi-dalam-bisnis-u913-a-fr.jpg" crc="299393388" ref="index"/>
+    <file name="kejahatan teknologi informasi 2-u910-a-fr.jpg" crc="4173669092" ref="index"/>
+    <file name="teknologi-informasi-dalam-genggaman-u908-a-fr.jpg" crc="3988261340" ref="index"/>
+    <file name="images (2)-u907-a-fr.jpg" crc="528528393" ref="index"/>
+    <file name="images-u912-a-fr.jpg" crc="434451015" ref="index"/>
+    <file name="download-u1740-a-fr.jpg" crc="4192714012" ref="index"/>
+    <file name="kejahatan teknologi informasi 2.jpg" crc="323920856" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="heart.png" crc="117585526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="389229636" seo="true" mt="1494572236281" redirect="true"/>
+</manifest>

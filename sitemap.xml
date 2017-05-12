@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://musefree.com/index.html</loc>
+    <lastmod>2017-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://musefree.com/images/placeholder.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/download.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/peran-teknologi-informasi-dalam-bisnis.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/teknologi-informasi-dalam-genggaman.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/images%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/images%20(2).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/download%20(1).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/10418166_323481937803684_7402618000269240088_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/17757524_606279879563082_5541167877297081988_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/17796747_783586525149128_7539894739390684497_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/13087649_1133925013315715_2948071787318873261_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/heart.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
